@@ -1,5 +1,7 @@
 # xkcd936
 
+[![Build Status](https://travis-ci.org/Rayraegah/xkcd936.svg?branch=master)](https://travis-ci.org/Rayraegah/xkcd936)
+
 Convert cumbersome strings into memorable phrases.
 
 ## Installation
